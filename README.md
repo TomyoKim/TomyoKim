@@ -16,8 +16,48 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F5B199&height=300&section=header&text=Hello%World!&fontSize=90&fontColor=FFFFFF)
 
-Hi, Welcome to my GitHub!
-I'm Tomyo Kim interested in Front-end🐰
+<p>Hi, Welcome to my GitHub!</p>
+<p>I'm Tomyo Kim interested in Front-end with React🐰</p>
+<p>I studied at Inha University in Korea.</p>
+<p>My major is Computer Science and Engineering.</p>
 
-<a href="https://www.instagram.com/tomyodesu/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<div align = center>
+  <p>
+    ✨SNS List✨
+  </p>
+<a href="https://instagram.com/tomyodesu">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/tomyodesu/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="gihyun0325@gmail.com">
+    <img 
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=gihyun0325@gmail.com"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  
+<a href="https://velog.io/@gihyun01">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat&logo=velog&logoColor=white&link=https://https://velog.io/@gihyun01/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  <p>
+    
+  </p>  
+</div>
+<div align = center>
+  
+  <p>💕Github Stats💕</p>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomyoKim&show_icons=true&theme=omni)
+  
+  <p>📊Most Used Language📊</p>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomyoKim&layout=compact&theme=onedark)
+  
+  <p>🏅Baekjoon Solved Rank🏅</p>
+  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tomyo)](https://solved.ac/tomyo)
+
+
+</div>
