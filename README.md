@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=F5B199&height=120&section=header&fontSize=90&fontColor=FFFFFF)
 
 <p>Hi, Welcome to my GitHub!</p>
 <p>I'm Tomyo Kim interested in Front-end with React🐰</p>
