@@ -1,4 +1,4 @@
-Hi, I'm Tomyo Kim interested in Front-end🐰
+
 
 <!--
 **TomyoKim/TomyoKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F5B199&height=300&section=header&text=Hello%World!&fontSize=90&fontColor=FFFFFF)
 
-Hi, I'm Tomyo Kim interested in Front-end🐰
+Hi, Welcome to my GitHub!
+I'm Tomyo Kim interested in Front-end🐰
 
+<a href="https://www.instagram.com/tomyodesu/" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomyoKim&show_icons=true&theme=omni)
