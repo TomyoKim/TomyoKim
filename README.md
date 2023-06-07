@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=F5B199&height=300&section=header&text=Hello%World!&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F5B199&height=300&section=header&text=Hello%World!&fontSize=90&fontColor=FFFFFF)
 
 Hi, I'm Tomyo Kim interested in Front-end🐰
 
