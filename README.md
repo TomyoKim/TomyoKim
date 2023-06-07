@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 <p>I'm Tomyo Kim interested in Front-end with React🐰</p>
 <p>I studied at Inha University in Korea.</p>
 <p>My major is Computer Science and Engineering.</p>
+<br/>
+<br/>
 
-<div align = center>
+<div>
   <p>
     ✨SNS List✨
   </p>
@@ -40,11 +42,12 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Tech%20Blog-20C997?style=flat&logo=velog&logoColor=white&link=https://https://velog.io/@gihyun01/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-  <p>
-    
-  </p>  
+
 </div>
-<div align = center>
+<br/>
+<br/>
+
+<div>
   
   <p>💕Github Stats💕</p>
   
