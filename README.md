@@ -31,7 +31,7 @@ Here are some ideas to get you started:
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/tomyodesu/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="gihyun0325@gmail.com">
+<a href="mailto:gihyun0325@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=gihyun0325@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
