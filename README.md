@@ -51,11 +51,11 @@ Here are some ideas to get you started:
   
   <p>💕Github Stats💕</p>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomyoKim&show_icons=true&theme=omni)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TomyoKim&show_icons=true&theme=omni)
   
   <p>📊Most Used Language📊</p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomyoKim&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TomyoKim&layout=compact&theme=onedark)
   
   <p>🏅Baekjoon Solved Rank🏅</p>
   
