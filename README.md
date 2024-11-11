@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p>Hi, Welcome to my GitHub!</p>
-<p>I'm Tomyo Kim interested in Front-end with React🐰</p>
+<p>I'm Tomyo Kim interested in cloud services🐰</p>
 <p>I studied at Inha University in Korea.</p>
 <p>My major is Computer Science and Engineering.</p>
 <br/>
