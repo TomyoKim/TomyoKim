@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Hi, Welcome to my GitHub</p>
-<p>I'm Tomyo Kim interested in cloud services🐰</p>
+<p>Hi, There!</p>
+<p>This is Tomyo Kim(also you can call me as Nico) interested in cloud services especially AWS🐰</p>
+<p>I'm working at MEGAZONECLOUD at Republic of Korea, as Cloud Support Engineer </p>
 
 <br/>
 
