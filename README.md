@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p>I'm working at MEGAZONECLOUD at Republic of Korea, as Cloud Support Engineer </p>
 
 <br/>
+<hr style="border: none; height: 1px; background-color: #f5b199;">
 
 <div>
   
